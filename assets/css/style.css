@@ -25,9 +25,8 @@ body {
   font-weight: normal;
   font-style: normal;
   color: #747E88;
-  background-image: linear-gradient(to right, #241224, #95145b);
+  background-color: black;
   overflow-x: hidden; }
-
 * {
   margin: 0;
   padding: 0;
@@ -216,7 +215,7 @@ p {
   height: 100%;
   width: 100%;
   /* Change Background Color */
-  background: linear-gradient(to right, #241224, #95145b); ;
+  background: #fff;
   z-index: 99999; }
   .preloader .loader {
     display: table-cell;
@@ -725,7 +724,7 @@ p {
   z-index: 5;
   background-position: bottom center;
   height: 800px;
-  background-image: linear-gradient(to right, #241224, #95145b); }
+  background-image: linear-gradient(to bottom right, #95145b, black,#000000, #000000); }
   @media only screen and (min-width: 1400px) {
     .header-hero {
       height: 900px; } }
@@ -1043,7 +1042,7 @@ p {
 ===========================*/
 .about-area {
   background-color: #F3FDFF;
-  background-image: linear-gradient(to right, #241224, #95145b); }
+  background-color: black; }
 
 .about-image {
   position: relative;
