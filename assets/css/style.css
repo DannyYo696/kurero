@@ -216,7 +216,7 @@ p {
   height: 100%;
   width: 100%;
   /* Change Background Color */
-  background: #fff;
+  background: linear-gradient(to right, #241224, #95145b); ;
   z-index: 99999; }
   .preloader .loader {
     display: table-cell;
